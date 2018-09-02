@@ -1,0 +1,7 @@
+<html>
+<head>
+	<title>prefrences</title>
+</head>
+<body background="prefrence.jpg">
+</body>
+</html>
